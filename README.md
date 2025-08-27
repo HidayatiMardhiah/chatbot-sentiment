@@ -6,12 +6,12 @@ It classifies user input as positive or negative sentiment and responds conversa
 ---
 
 ## ✨ Features  
-- 🧹 Text preprocessing (removes mentions, URLs, punctuation)  
-- 🔤 Word representation with **Word2Vec** (compared against Bag of Words)  
-- 📊 Sentiment classification using **Logistic Regression** (compared with VADER and Naive Bayes)  
-- 📈 Accuracy comparison visualized with a bar graph  
-- 🤖 Interactive chatbot UI powered by **Gradio**  
-- ✅ Confidence score displayed for predictions  
+-  Text preprocessing (removes mentions, URLs, punctuation)  
+-  Word representation with **Word2Vec** (compared against Bag of Words)  
+-  Sentiment classification using **Logistic Regression** (compared with VADER and Naive Bayes)  
+-  Accuracy comparison visualized with a bar graph  
+-  Interactive chatbot UI powered by **Gradio**  
+-  Confidence score displayed for predictions  
 
 ---
 
